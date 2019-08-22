@@ -1,0 +1,23 @@
+﻿//Bagelsmore
+tile.CabinetFancy.name=Ozdobna szafka
+tile.CabinetStone.name=Kamienna szafka
+tile.CabinetTreated.name=Impregnowana szafka
+tile.DeskFancy.name=Ozdobne biurko
+tile.DeskStone.name=Kamienne biurko
+tile.DeskTreated.name=Impregnowane biurko
+tile.SmeltingDrawer.name=Szuflada do przetapiania
+tile.DrawerSmall.name=Szuflada magazynująca
+tile.DrawerLarge.name=Duża szuflada magazynująca
+tile.RecyclingDrawer.name=Szafka do recyklingu
+tile.EnderDrawer.name=Szafka Kresu
+tile.FluidDrawer.name=Szafka na ciecze
+item.Clipboard.name=Notatnik
+item.ClipboardEmpty.name=Notatnik
+tile.FancyPlanks.name=Ozdobne deski
+tile.Bookshelf.name=Półka na książki
+tile.TreatedPlanks=Impregnowane deski
+tile.FancyStone.name=Ozdobny kamień
+tile.Paper.name=Lista "do zrobienia"
+tile.SwordMount.name=Stojak na miecz
+tile.Candle.name=Świeczka
+itemGroup.bagelsmore=Bagelsmores
